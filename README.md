@@ -1,4 +1,4 @@
-# Example headings
+# follow this tutorial for use this lab
 
 ## Sample Section
 
